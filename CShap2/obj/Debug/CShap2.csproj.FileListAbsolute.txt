@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CShap2\CShap2\bin\Debug\CShap2.exe.config
+C:\Users\user\source\repos\CShap2\CShap2\bin\Debug\CShap2.exe
+C:\Users\user\source\repos\CShap2\CShap2\bin\Debug\CShap2.pdb
+C:\Users\user\source\repos\CShap2\CShap2\obj\Debug\CShap2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CShap2\CShap2\obj\Debug\CShap2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CShap2\CShap2\obj\Debug\CShap2.exe
+C:\Users\user\source\repos\CShap2\CShap2\obj\Debug\CShap2.pdb
